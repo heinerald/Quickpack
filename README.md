@@ -1,5 +1,5 @@
-### ISNTRUCCIÓNES
-
+### INSTRUCCIÓNES
+Script - despliegue y configuracion automatica de seguridad para servidores en red publica - beta
 ./quickpack.sh
 
 
